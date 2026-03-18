@@ -29,11 +29,12 @@ This GUI version allows the user to:
 
 ## Interface Images
 
-<img width="502" height="530" alt="Screenshot 2026-03-19 at 12 11 58 AM" src="https://github.com/user-attachments/assets/00a49f7b-361c-4fde-bcbf-8d298920e53c" />
+<img width="491" height="526" alt="Screenshot 2026-03-19 at 12 11 58 AM" src="https://github.com/user-attachments/assets/983781dc-aa1f-4294-a7d3-98edf01a4965" />
+
 
 ## Encryption and Decryption
 
-<img width="502" height="530" alt="Screenshot 2026-03-19 at 12 08 16 AM" src="https://github.com/user-attachments/assets/f536f71b-a345-488f-8373-f099b0e88bdd" />
+<img width="502" height="529" alt="Screenshot 2026-03-19 at 12 08 16 AM" src="https://github.com/user-attachments/assets/de52017f-4526-4bd2-8497-9274aa7e9586" />
 
 
 The program uses Tkinter, Python’s standard library for GUI development, to create a clean and interactive interface with text boxes, labels, and buttons.
