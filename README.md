@@ -102,5 +102,3 @@ Kristu Jayanti University
 <img width="517" height="626" alt="brute_force1" src="https://github.com/user-attachments/assets/5d765f87-071c-4b96-b60c-f5251a71d0bf" />
 <img width="520" height="624" alt="brute_force2" src="https://github.com/user-attachments/assets/3f9a55cb-a85f-4291-8a86-f1891e55bb16" />
 
-
-The program uses Tkinter, Python’s standard library for GUI development, to create a clean and interactive interface with text boxes, labels, and buttons.
